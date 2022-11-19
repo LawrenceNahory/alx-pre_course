@@ -1,1 +1,1 @@
-my read me
+my way to software engineer
